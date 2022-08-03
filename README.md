@@ -1,4 +1,4 @@
-# RadioProjects
+# Radio Projects
 
 ## Introduction
 
@@ -15,6 +15,11 @@ by hand in spare time. (at least with my physical construction skills)
 So documenting these radio projects helps me to keep track of the details of
 what I've done, and makes the finished result seem somewhat official, and
 hopefully useful to others as to what worked for me.
+
+## Projects
+
+- [Antenna Projects](Antennas/) - antenna experiments and finished projects
+- [Home Station](HomeStation/) - a write-up about my home ham radio station
 
 ## About my Radio Journey
 
