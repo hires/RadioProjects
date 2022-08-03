@@ -45,5 +45,5 @@ Finally I painted the copper to make it less conspicuous:
 <img src="images/2022-02-07-jpole_paint.jpg" width="400"/>
 
 ----
-As of July 2022 the J-Pole is now installed as part of my [Home Station][../HomeStation/] with
+As of July 2022 the J-Pole is now installed as part of my [Home Station](../HomeStation/) with
 a rebuilt feed arrangement.
