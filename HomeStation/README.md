@@ -31,7 +31,7 @@ The building was photographed to allow better planning of
     to install two antennas: one for HF (80-10m) bands and one for
     VHF and UHF (2m and 70cm) bands.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5708.jpg "Lookup Up from the Shack")    
+![](images/IMG_5708.jpg "Lookup Up from the Shack")    
 <br clear="right"/>
 
 ----
@@ -51,7 +51,7 @@ The vertical HF "whip" made it impossible to use the self-supporting
     structure due to concerns it might tip over. These parts were scrapped and
     partly reused.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5717.jpg" "Original Base Concept")
+![](images/IMG_5717.jpg" "Original Base Concept")
 <br clear="right"/>
 
 ----
@@ -68,9 +68,11 @@ All the cables and wires were prepared. The system requires two coax cables:
     are 100' in length to be able to reach from the antenna location, travel under my
     neighbour's roof-top deck, and down the side of the building to my studio.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5724.jpg "Antenna Coupler")
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5725.jpg "Antenna Coupler Inside")
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5731.jpg "Cables and Stuff")
+![](images/IMG_5724.jpg "Antenna Coupler")
+
+![](images/IMG_5725.jpg "Antenna Coupler Inside")
+
+![](images/IMG_5731.jpg "Cables and Stuff")
 <br clear="right"/>
 
 ----
@@ -93,9 +95,11 @@ All parts were painted black with exterior enamel paint to protected from weathe
     my primary goal besides getting on the air was to prepare a professional looking solution
     that would look safe and unobtrusive espectially to the non-technical onlooker.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5732.jpg "Black Wood")
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5733.jpg "Tubing for Verticals")
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5734.jpg "2m/70cm J-Pole")
+![](images/IMG_5732.jpg "Black Wood")
+
+![](images/IMG_5733.jpg "Tubing for Verticals")
+
+![](images/IMG_5734.jpg "2m/70cm J-Pole")
 <br clear="right"/>
 
 ----
@@ -108,70 +112,70 @@ This is an overall view of the finished installation of the VHF/UHF J-Pole (left
     but I can take care of that inside with some filters, or just terminate the antenna that I am
     not currently using.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5736.jpg "Finished Install")
+![](images/IMG_5736.jpg "Finished Install")
 
 Here is a close-up view of the J-Pole with a choke in the feedline to prevent RF on the coax shield.
     The J-Pole slides down inside a piece of 3/4" grey PVC used as a sleeve to hold it. A screw through the
     bottom of the PVC pipe acts as a bottom stop to set the height of the J-Pole.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5737.jpg "J-Pole Mounting")
+![](images/IMG_5737.jpg "J-Pole Mounting")
 
 Another view of the J-Pole.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5738.jpg "J-Pole Close View")
+![](images/IMG_5738.jpg "J-Pole Close View")
 
 A view of the lower part of the HF system showing the antenna coupler and 4x ground radial wires
     going out across the roof to provide a counterpoise. Each wire is around 20-25' long. The HF whip
     is supported in a piece of 1.5" black ABS pipe. Some electrical tape was wrapped around the whip
     where it fits inside the ABS pipe to make a snug fit so it doesn't rattle around.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5739.jpg "Antenna Coupler Install")
+![](images/IMG_5739.jpg "Antenna Coupler Install")
 
 Antenna coupler mounted on the mounting bracket. Several ferrite chokes are installed behind the
     coupler on the coax and control cables to prevent RF currents traveling back to the radio or
     causing RFI problems in the house. Coax connectors are taped up to make them water resistant and
     the control cable is spliced with waterproof (gel filled) IDC-type wire splices.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5740.jpg "Antenna Coupler Up Close")
+![](images/IMG_5740.jpg "Antenna Coupler Up Close")
 
 Another view!
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5741.jpg "Another View")
+![](images/IMG_5741.jpg "Another View")
 
 Kitty litter pan from the dollar store to cover the coupler. Depite the antenna coupler being rated
     for outdoor use the instructions suggest protecting it from direct sunlight. Hopefully being located
     under the roof overhang and mounting brackets will held protect the coupler and connections from rain.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5742.jpg "Kitty Litter Pan")
+![](images/IMG_5742.jpg "Kitty Litter Pan")
 
 The coax and control cables go under my neighbour's deck and connect to a
     piece of 1.5" ABS pipe that I installed on the the side of the building. It was prepared from below with
     a "hook" that would hang over the edge of the roof. The cables tie off securely to the hook
     and then go down vertically through the "T" fitting and into the basement stairwell.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5743.jpg "Cable Routing")
+![](images/IMG_5743.jpg "Cable Routing")
 
 Trying to hide the cables a bit by securing them on the side of the pipe. They shouldn't be visible unless
     you are on the roof.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5744.jpg "Cable Routing")
+![](images/IMG_5744.jpg "Cable Routing")
 
 Here is a view from inside the basement stairwell. Cables exit after traveling through 36' of ABS pipe
     mounted on the corner of the building. The wall behind the pipe is the wall of my studio where the
     radios will be located.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5745.jpg "Cable Exist Outside Shack")
+![](images/IMG_5745.jpg "Cable Exist Outside Shack")
 
 ## Equipment Setup
 
 I made a remote control box for the antenna coupler. It can turn on and off the power and also has a green
     LED connected to the "TUNED" line which goes low when the tuner finds a tune.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5753.jpg "Antenna Coupler Switchbox")
+![](images/IMG_5753.jpg "Antenna Coupler Switchbox")
 
 I made a little shelf to make reaching the controls a bit easier from my desk.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/IMG_5759.jpg "HF Radio Setup")
+![](images/IMG_5759.jpg "HF Radio Setup")
 
 <br clear="right"/>
 ----
@@ -182,17 +186,17 @@ I swept both antennas on the nanoVNA and checked the results on the station end 
 
 <b>HF Antenna with the Tuner Disabled</b></p>
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/2022-07-13-home_HF_tuner_out.png "HF Antenna VSWR")
+![](images/2022-07-13-home_HF_tuner_out.png "HF Antenna VSWR")
 
 <b>2m on the J-Pole Antenna</b></p>
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/2022-07-13-home_VHF.png "J-Pole VSWR on 2m")
+![](images/2022-07-13-home_VHF.png "J-Pole VSWR on 2m")
 
 <b>70cm on the J-Pole Antenna</b></p>
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/2022-07-13-home_UHF.png "J-Pole VSWR on 70cm")
+![](images/2022-07-13-home_UHF.png "J-Pole VSWR on 70cm")
 
 <b>I've been using the J-Pole as a receive antenna on all bands with my Airspy HF+. Here is a sweep of the J-Pole
 on HF. Surprisingly it does work pretty well despite the crazy impedance variations.
 
-![](https://github.com/hires/RadioProjects/HomeStation/images/2022-08-01-home_JPole-HF_bands-Z.png "J-Pole Z on HF")
+![](images/2022-08-01-home_JPole-HF_bands-Z.png "J-Pole Z on HF")
