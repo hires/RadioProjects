@@ -23,13 +23,13 @@ Here are the specs:
 
 [Schematic](active_mag_loop_amp-sch.pdf)
 
-<img src="images/2022-01-01-active_loop1.jpg" width="200"/>
+<img src="images/2022-01-01-active_loop1.jpg" width="400"/>
 
-<img src="images/2022-01-01-loop_bias_tee.jpg" width="200"/>
+<img src="images/2022-01-01-loop_bias_tee.jpg" width="400"/>
 
-<img src="images/2022-01-02-loop_amp.jpg" width="200"/>
+<img src="images/2022-01-02-loop_amp.jpg" width="400"/>
 
-<img src="images/2022-01-02-loop_amp_bias-done.jpg" width="200"/>
+<img src="images/2022-01-02-loop_amp_bias-done.jpg" width="400"/>
 
 Basically this design didn't work at all and just received tons of local noise.
 I kept the loop amp and bias see but just reused the rest of the materials for
