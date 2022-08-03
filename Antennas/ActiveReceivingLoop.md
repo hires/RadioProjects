@@ -13,7 +13,7 @@ Here are the specs:
   - end holes = 47.25" / 2 = 23.625"
 - performance is poor and lots of noise pickup
 
-[Schematic](active_mag_loop_amp-sch.pdf)
+[Schematic](docs/active_mag_loop_amp-sch.pdf)
 
 <img src="images/2022-01-01-active_loop1.jpg" width="400"/>
 
