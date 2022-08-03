@@ -29,7 +29,7 @@ license course I took at my local college really set me on a path of both
 theory and practical learning that continues to this day. After obtaining my
 Basic license, I got involved in the local ham radio scene in my town, met
 other hams (mostly older than me) and even visited the Dayton Hamvention which
-completely blew my mind.
+completely blew my little 13 year old mind.
 
 My high school was a technical school that had an electronics department.
 I took most of the courses offered which included electronics theory, analog and
@@ -44,7 +44,7 @@ city shortly after once again got in the way of the hobby.
 
 In 2020 due to stay-at-home orders, etc. several local ham clubs started hosting
 online meetings, so I decided to join and participate in the meetings. I made
-some friends through the groups and started to get more interested in radio. I
+some friends through the groups and started to get a renewed interest in radio. I
 am now focused on learning RF theory and design as a way to improve my skills
 as an electronics designer.
 
