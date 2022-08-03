@@ -51,7 +51,7 @@ The vertical HF "whip" made it impossible to use the self-supporting
     structure due to concerns it might tip over. These parts were scrapped and
     partly reused.
 
-![](images/IMG_5717.jpg" "Original Base Concept")
+![](images/IMG_5717.jpg "Original Base Concept")
 <br clear="right"/>
 
 ----
