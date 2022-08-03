@@ -27,7 +27,7 @@ the specs of my build:
 
 Here are the parts ready to be assembled:
 
-<img src="images/2022-02-06jpole_parts.jpg" width="400"/>
+<img src="images/2022-02-06-jpole_parts.jpg" width="400"/>
 
 I did some initial tests with the antenna on my first floor balcony. There are
 too many metal objects around but I was able to get the antenna to tune up.
