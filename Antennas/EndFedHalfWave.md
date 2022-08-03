@@ -4,6 +4,43 @@ The first transmitting antenna I made for HF was an end-fed half wave for 40m
 which consisted of a ~66' piece of wire made from some CAT5 cable pairs spliced
 together, and a small 49:1 unun in a plastic food container.
 
+## Basic Concept
+
+The concept of an end-fed half-wave (EFHW) is easy to understand if you imagine
+the antenna as a normal dipole with two quarter-wave section attached together.
+In a regular dipole the feed point is at the centre with 1/4 wave radiator connected
+to each half of the feed-line. This usually presents a low impedance (around 73
+ohms) that can be fed directly with coax. Most often these antennas are made from
+wire when used on the HF bands as they are light and can be easily supported by
+insulated ropes or poles.
+
+However this type of antenna has several drawbacks:
+
+- It must be fed from the centre
+- It must be supported in three places
+- The centre of the antenna is usually the highest point in the setup (inverted-V configuration)
+- Operation on multiple bands is limited since both sides of the dipole must resonate on any desired harmonic
+
+It is often more convenient to feed an antenna from the end instead of the
+middle. This could enable use of less coax from the radio, as well as allowing
+the wire to be supported by only two points. Another big advantage is the ability
+to use the antenna on various harmonics of the base frequency since the single wire
+can resonate on any integer multiple of the base frequency.
+
+By using a wire length of 1/2 wave the antenna still acts
+mostly like a dipole, which means that the currents are balanced on both
+halves of the wire with low voltage / high current in the centre, and
+high-voltage / low current at the ends. Unlike a 1/4 wave ground-plane antenna
+the EFHW requires little to no counterpoise / ground plane making it excellent
+for portable use or installations where having ground radial wires would be impractical.
+
+To feed an end-fed half wave antenna requires an impedance conversion since the end
+of a half-wave wire presents a high-impedance. The standard method involves either
+a 49:1 or 64:1 transformer to match a typically 50 ohm feed-line to several thousand
+ohms. For the HF bands the most common type of impedance conversion is done with
+an unun modelled as either a transformer with a common ground terminal, or an
+auto-transformer.
+
 ## Experiments / First Version
 
 It actually took a number of tries to make an unun that measured acceptably
