@@ -12,6 +12,8 @@ This actually allowed me to make a contact from a park during January 2022.
 (it was -14C!) I used about 20W and ran my FT-450D off a 12V SLA battery for
 about 10 minutes until my hands were freezing.
 
+<img src="images/2022-01-29-field_day2.jpg" width="400"/>
+
 I took the same setup out again in the spring with a friend but could not get
 the antenna to tune up at all. I believe there was a loose connection in the
 unun, but I disassembled it to reuse the ferrite.
