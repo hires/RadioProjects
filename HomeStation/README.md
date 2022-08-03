@@ -7,8 +7,9 @@ station at my home. I live in a multi-unit condo building and occupy the
 main floor and basement on one side of the building. There are six units
 with three floors above ground. In May I approached my upstairs neighbour
 to see if she would allow me to install several antennas on the roof. She
-has access to a roof-top deck via a set of stairs accessible from within
-her apartment. She seemed okay with the idea.
+has a roof-top deck which is accessed by stairs that can only be reached by
+going through one of the top-floor apartments. After some research on her
+part she decided that she was okay with the idea.
 
 I went away and did some research as to what might work. The size and shape
 of the building would limit me, but the height above ground level (about 10m)
@@ -17,7 +18,7 @@ as well. My first plan was to use a dual-band vertical antenna for 2m and 70cm
 and a multi-band end-fed wire antenna for 40-10m on HF.
 
 My neighbour didn't like the idea of a wire overhead and asked if I could do
-a vertical antenna for HF also. I went away again and came up with a plan to
+a vertical for HF as well. I went away again and came up with a plan to
 install two verticals: one for HF and one for VHF/UHF. Below are the details.
 <br clear="right"/>
 

@@ -19,28 +19,29 @@ hopefully useful to others as to what worked for me.
 ## About my Radio Journey
 
 I've been a licensed radio amateur in Canada since I was 13 years old. It was
-my first exposure to radio and electronics technology, and the course I took
-at my local college really set me on a path of both theory and practical learning
-that continues to this day. After obtaining my Basic license, I got involved in
-the local ham radio scene in my town, met other hams (mostly older than me) and
-even visited the Dayton Hamvention which completely blew my mind.
+my first exposure to radio and electronics technology, and the ham radio
+license course I took at my local college really set me on a path of both
+theory and practical learning that continues to this day. After obtaining my
+Basic license, I got involved in the local ham radio scene in my town, met
+other hams (mostly older than me) and even visited the Dayton Hamvention which
+completely blew my mind.
 
-My high school was a technical school that had an electronics department where
+My high school was a technical school that had an electronics department.
 I took most of the courses offered which included electronics theory, analog and
-digital electronics, my first introduction to C program, and many related topics.
+digital electronics, my first introduction to C programming, and many related topics.
 Computers and later the Internet would take my interest away from radio for quite
 a while, but I always kept coming back to it over the years.
 
 In 2017 after working in electronics and running my own business for a long time
-I became interested in radio again and decided to upgrade my license class to
+I became interested in radio again and decided to upgrade my license to
 Advanced. I took the test and passed with flying colours, but a move to another
 city shortly after once again got in the way of the hobby.
 
 In 2020 due to stay-at-home orders, etc. several local ham clubs started hosting
-online meetings, so I decided to join a few of the clubs and participate in the
-meetings. I made some friends through the groups and started to get more interested
-in radio, and in the winter of 2021/2022 I finally had time to dedicate to the
-study of RF which I am continuing to explore.
+online meetings, so I decided to join and participate in the meetings. I made
+some friends through the groups and started to get more interested in radio. I
+am now focused on learning RF theory and design as a way to improve my skills
+as an electronics designer.
 
 ----
 Please note that the info here comes with NO WARRANTY. Do your own independent
