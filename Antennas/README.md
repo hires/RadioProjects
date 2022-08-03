@@ -10,5 +10,6 @@ into antennas and built a number of prototypes to test.
 - [Active Receiving Loop](ActiveReceivingLoop.md) - an (unsuccesful) attempt at making a small and effective SWL antenna based on a popular concept
 - [End-Fed Half Wave](EndFedHalfWave.md) - various experiments with end-fed half-wave antenna and ununs
 - [NOAA Weather Satellite V-Dipole](NOAAWeatherDipole.md) - my version of a very simple dipole antenna for receiving weather satellite images
+- [2m / 70cm J-Pole][2m70cmJPole.md] - a decent dual-band 2m / 70cm J-Pole antenna made from copper tubing
 
 Check out the various pages here for more info.
