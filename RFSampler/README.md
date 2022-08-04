@@ -25,15 +25,15 @@ idea was a 1-500MHz version similar to the first link above. However as you can
 see the author was not able to really get very good performance on the coupling
 all the way up to 500MHz, and neither was I. A different transformer design is
 probably necessary to reduce the resonance and capacitive coupling that I
-believe causes the irregular coupling above about 250MHz or so.
+believe causes the irregular performance above about 250MHz or so.
 
 The overall design consists of a through port using a very short piece of RG8X
-coax that has a the shield set up as a telescoping shield with the braid cut
+coax that has the shield set up as a telescoping shield with the braid cut
 away on the output side. This allows transformer action to work but provides a
 Faraday shield to minimize capacitive coupling to the transformer windings.
 
-Around the coax is placed a small toroid with a number of windings. This raises
-the output voltage which is subsequently shorted out by a very low impedance
+Around the coax is placed a small toroid with a number of windings. This generates
+a fairly high impedance output signal which is mostly shorted out by a very low impedance
 and then fed via a series resistor to the coupled port. I chose to use -40dB
 coupling to effectively measure low-power transmitters. In the case of higher
 power signals a series attenuator might be needed on the output of the coupler
