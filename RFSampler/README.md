@@ -93,11 +93,12 @@ believe the permeability is too high.
 <img src="images/003-thru_FT91-61_toroid.jpg" width="400"/>
 <br clear="right"/>
 
+----
 ## Final Design
 
 For the final design I chose to use the T50-2 toroid. A coil is wound
 around the toroid with one end connected to ground, and the other end
-connected to a load `Rt` to ground. The output the coupled port is taken
+connected to a load `Rt` to ground. The output to the coupled port is taken
 via `Rs` which connects to the output of the transformer.
 
 To calculate the load (Rt) and series (Rs) resistors to give the correct
