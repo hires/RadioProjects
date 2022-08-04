@@ -36,18 +36,17 @@ Around the coax is placed a small toroid with a number of windings. This generat
 a fairly high impedance output signal which is mostly shorted out by a very low impedance
 and then fed via a series resistor to the coupled port. I chose to use -40dB
 coupling to effectively measure low-power transmitters. In the case of higher
-power signals a series attenuator might be needed on the output of the coupler
-to protect the spectrum analyzer.
+power signals a series attenuator might be needed on the coupled port to protect
+the spectrum analyzer.
 
 ## Experimental Process
 
-First thing I wanted to do was to see how flat the through response would be
+The first thing I wanted to do was to see how flat the through response would be
 without any transformer or toroid core around the through line. I made up a
 simple through test in my box with a piece of centre conductor / dielectric
 from the coax soldered between the IN and OUT jacks.
 
 <img src="images/rf_sampler-thru.jpg" width="400"/>
-<br clear="right"/>
 
 ### Through Performance - No Toroid - Cover Installed
 
@@ -72,7 +71,6 @@ from the coax soldered between the IN and OUT jacks.
     500MHz - -1.86dB
 
 <img src="images/002-thru_T50-2_toroid.jpg" width="400"/>
-<br clear="right"/>
 
 ----
 ### Through Performance - FT91-61 Toroid - Cover Installed
