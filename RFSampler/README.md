@@ -1,4 +1,6 @@
-# RF Sampler 40dB / 1-220MHz
+# RF Sampler 40dB / 2-250MHz
+
+<img src="images/rf_sampler-done.jpg" width="400"/>
 
 I have been experimenting with transmitters and have long wanted to be
 able to measure the RF purity and bandwidth on my spectrum analyzer. A few
@@ -7,8 +9,6 @@ and picked up a nice Mini-Circuits 0-2000MHz directional coupler which I
 have used to good effect for sweeping antennas. But it only handles 2W
 via the thru port. Clearly not even good for testing a handheld or QRP
 transmitter.
-
-<img src="images/rf_sampler-done.jpg" width="400"/>
 
 After some digging I found the following resources which I used as inspiration
 for my own build:
@@ -139,7 +139,9 @@ that a sharp dip and then some resonances seem to limit accuracy.
 
 Another test was run from 1-30MHz which is of particular interest for HF radio projects.
 The low frequency performance starts to roll off below about 4MHz, but from 4-30MHz the
-performance is within about 1dB. The 3dB down point on the low end is around 1.7MHz.
+performance is within about 1dB. The 3dB down point on the low end is around 1.7MHz. I
+eventually decided to label this as having a useful range of 2-250MHz since the 3dB
+down points are just outside this range.
 
 <img src="images/008-final-couple_1-30MHz.jpg" width="400"/>
 
