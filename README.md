@@ -20,6 +20,7 @@ hopefully useful to others as to what worked for me.
 
 - [Antenna Projects](Antennas/) - antenna experiments and finished projects
 - [Home Station](HomeStation/) - a write-up about my home ham radio station
+- [RF Sampler](RFSampler/) - a simple 40dB RF sampler that has good HF and VHF performance
 
 ## About my Radio Journey
 
