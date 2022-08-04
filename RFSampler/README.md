@@ -63,6 +63,9 @@ from the coax soldered between the IN and OUT jacks.
 ----
 ### Through Performance - T50-2 Toroid - Cover Installed
 
+Next I placed a T50-2 toroid around the cable to see how it would
+affect the through performance. Not much!
+
     <100MHz - ~-0.06dB
     145MHz - -0.33dB
     237MHz - -0.77dB
@@ -75,6 +78,11 @@ from the coax soldered between the IN and OUT jacks.
 ----
 ### Through Performance - FT91-61 Toroid - Cover Installed
 
+Next I tried using an FT91-61 (I think that's the size) core that I
+had. This is a very high performance core recommended for HF transformers
+but as you can see the performance into the VHF and UHF range is poor. I
+believe the permeability is too high.
+
     -1dB at 36MHz
     -2dB at 92MHz
     -3dB min at 225MHz
@@ -82,7 +90,7 @@ from the coax soldered between the IN and OUT jacks.
     -4dB min at 430MHz
     -4dB at 500MHz
 
-<img src="images/002-thru_FT91-61_toroid.jpg" width="400"/>
+<img src="images/003-thru_FT91-61_toroid.jpg" width="400"/>
 <br clear="right"/>
 
 ## Final Design
